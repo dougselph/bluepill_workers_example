@@ -1,7 +1,7 @@
 # Bluepill Example
 Bluepill is a simple process monitoring tool written in Ruby. See [http://github.com/arya/bluepill](http://github.com/arya/bluepill)
 
-This is an example of using it to start multiple worker processes running the same script.
+The pill file in this repo is an example of using it to start multiple worker processes running the same script.
 
 ## Starting the processes
 Under rvm, as a user other than root, you can load up the workers using:
