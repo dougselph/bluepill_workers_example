@@ -9,7 +9,7 @@ Under rvm, as a user other than root, you can load up the workers using:
     rvmsudo bluepill load bluepill_workers.pill
     
 
-Make sure that the user you specify in the pill has write permissions on the PID directory you specified.
+Make sure that the user you specify in the pill has write permissions on the pid_file directory you specified.
 
 You might also find some help here:
 
